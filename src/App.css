@@ -2,3 +2,15 @@
 .navbar {
     background-image: linear-gradient(#CC0000, #FF0000) !important;
 }
+
+body{
+	background: #EFEFBB;
+	background: -webkit-linear-gradient(to right, #D4D3DD, #EFEFBB);
+	background: linear-gradient(to right, #D4D3DD, #EFEFBB);
+
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	margin: 0;
+}
